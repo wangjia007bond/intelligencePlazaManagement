@@ -1,0 +1,18 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="uplazamanagement.mainpage" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page id="mainpage" showHeader="false" enableScrolling="false" showFooter="false" >
+		<content>
+			<Image src="image/Rectangle 7 + 275773_h_ergb_s_gl.png" width="1024px" height="744px"  densityAware="false"/> 		
+			<Image src="image/Rectangle 60@2x.png" class="appHeader" width="1024px" height="40px" densityAware="false" /> 
+			<Image src="image/Oval 12 + 276095_h_ergb_s_gl@2x.png" class="appLogo" width="275px" height="23px" densityAware="false" />
+			<core:Icon class="appHome" src="sap-icon://home" size="1.5rem" color="#FFFFFF"/> 
+			<core:Icon class="appCenter" src="sap-icon://person-placeholder" size="1.3rem" color="#FFFFFF"/> 	 
+			<Image src="image/Group@2x.png" class="Block1" width="200px" height="200px" densityAware="false" press="onFlow"/>
+			<Image src="image/Group Copy@2x.png" class="Block2" width="200px" height="200px" densityAware="false" />
+			<Image src="image/Group Copy 2@2x.png" class="Block3" width="200px" height="200px" densityAware="false" />
+			<Image src="image/Group Copy 3@2x.png" class="Block4" width="200px" height="200px" densityAware="false" />
+			<Image src="image/Group Copy 4@2x.png" class="Block5" width="200px" height="200px" densityAware="false" />
+			<Image src="image/Group Copy 5@2x.png" class="Block6" width="200px" height="200px" densityAware="false" />
+		</content>
+	</Page>
+</core:View>

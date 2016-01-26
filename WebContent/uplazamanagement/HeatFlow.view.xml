@@ -1,0 +1,19 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="uplazamanagement.HeatFlow" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page id="HeatFlow" showHeader="false" enableScrolling="false" showFooter="false" >
+		<content>
+ 
+	<!-- <Image src="image/Rectangle 60@2x.png" class="appHeader" width="1024px" height="40px" densityAware="false" />   -->		
+	<!--  <Image src="image/Oval 12 + 276095_h_ergb_s_gl@2x.png" class="appLogo" width="275px" height="23px" densityAware="false" /> -->		
+	<!--  <core:Icon class="appHome" src="sap-icon://home" size="1.5rem" color="#FFFFFF"/>  -->		
+	<!--  <core:Icon class="appCenter" src="sap-icon://person-placeholder" size="1.3rem" color="#FFFFFF"/>  -->		
+			<Image src="image/bg@2x.png" width="1024px" height="744px" densityAware="false" />
+			<Image src="image/1@2x.png" class="heatMap1" width="876px" height="544px" densityAware="false" />
+			<Image src="image/2@2x.png" class="heatMap2" width="876px" height="544px" densityAware="false" />	
+			<Image src="image/3@2x.png" class="heatMap3" width="876px" height="544px" densityAware="false" />
+			<Image src="image/4@2x.png" class="heatMap4" width="876px" height="544px" densityAware="false" />
+			<Image src="image/5@2x.png" class="heatMap5" width="876px" height="544px" densityAware="false" />
+			<Image src="image/6@2x.png" class="heatMap6" width="876px" height="544px" densityAware="false" /> 
+		</content>
+	</Page>
+</core:View>
